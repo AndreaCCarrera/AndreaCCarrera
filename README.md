@@ -1,4 +1,4 @@
-<h1>🌟 Hello, I'm Andrea Carrera</h1>
+<h1>🌟 Hello, I'm Andrea C Carrera</h1>
 
 <p align="justify"> I'm a software developer and UX designer with extensive experience in digital content creation, project planning, and client interactions. 
 I've worked both as a freelancer and in the private sector, with a background in creating and managing web content, SEO, and software development. </p>
